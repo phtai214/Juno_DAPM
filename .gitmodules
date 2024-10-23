@@ -1,0 +1,6 @@
+[submodule "juno-client"]
+	path = juno-client
+	url = https://github.com/phtai214/juno-client.git
+[submodule "juno-server"]
+	path = juno-server
+	url = https://github.com/phtai214/juno-server.git
